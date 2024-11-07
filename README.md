@@ -1,4 +1,4 @@
-# meet_majapahit
+# meet_jitsi
 
 A new Flutter project.
 
